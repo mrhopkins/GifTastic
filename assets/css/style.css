@@ -1,0 +1,56 @@
+button, 
+form {
+	margin: 5px;
+}
+
+button {color: #343a40}
+
+.jumbotron {
+	font-weight: bold;
+	background-color: #343a40;
+	color: red;
+}
+
+.container .jumbotron, .container-fluid .jumbotron {
+	padding: 10px 15px;
+	margin: 6px;
+	border-radius: 10px;
+}
+
+
+button, html input[type=button], input[type=reset] {
+	background-color: #3B5998;
+	border: #3B5998;
+	color: white;
+	padding: 10px 15px;
+	margin: 6px;
+	border-radius: 10px;
+}
+
+input[type=submit] {
+background-color: #12b886;
+border: #12b886;
+color: white;
+padding: 10px 15px;
+margin: 6px;
+border-radius: 10px;
+}
+
+input{
+	background-color: aliceblue;
+}
+
+
+/*updates gif photo to show left to right versus just vertical */
+.item {
+	padding: 10px;
+	display: inline-block;
+}
+
+p{
+	color: #495057;	
+	/* background-color: white;
+	padding: 10px 15px;
+	margin: 6px;
+	border-radius: 10px; */
+}
