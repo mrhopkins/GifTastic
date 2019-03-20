@@ -2,9 +2,9 @@
 
 https://mrhopkins.github.io/GifTastic
 
-### Overview
+In this assignment...
 
-In this assignment, you'll use the GIPHY API to make a dynamic web page that populates with gifs of your choice. To finish this task, you must call the GIPHY API and use JavaScript and jQuery to change the HTML of your site.
+, you'll use the GIPHY API to make a dynamic web page that populates with gifs of your choice. To finish this task, you must call the GIPHY API and use JavaScript and jQuery to change the HTML of your site.
 
 
 When the user clicks on a button, the page should grab 10 static, non-animated gif images from the GIPHY API and place them on the page.
@@ -16,3 +16,7 @@ Under every gif, display its rating (PG, G, so on).
    * Only once you get images displaying with button presses should you move on to the next step.
 
 Add a form to your page takes the value from a user input box and adds it into your `topics` array. Then make a function call that takes each topic in the array remakes the buttons on the page.
+
+### Check me out on LinkedIn!
+
+https://linkedin.com/in/matthewrhopkins/
